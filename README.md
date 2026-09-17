@@ -239,4 +239,4 @@ This repository serves as the official landing page for Return of the King. The 
 **Get the most recent version of Return of the King today!**
 
 ---
-**Last updated:** 2026-09-17 02:44:21 UTC
+**Last updated:** 2026-09-17 08:15:22 UTC
